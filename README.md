@@ -1,2 +1,0 @@
-# itcrowd
-My blog
